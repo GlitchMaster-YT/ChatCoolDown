@@ -3,3 +3,6 @@ main: me.GlitchMaster_YT.ChatCoolDown.ChatCoolDown
 version: 1.0
 description: Makes users wait 5 seconds before being able to speak again.
 author: GlitchMaster_YT
+permissions:
+  chatcooldown.bypass:
+    [Bypass' countdown]
